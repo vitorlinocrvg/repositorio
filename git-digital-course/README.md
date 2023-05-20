@@ -6,3 +6,4 @@
 * Comando git push
 * TEntativa 2
 *  COmando git pull
+*  comando git fetch
