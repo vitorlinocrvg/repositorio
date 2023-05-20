@@ -5,3 +5,4 @@
 
 * Comando git push
 * TEntativa 2
+*  COmando git pull
